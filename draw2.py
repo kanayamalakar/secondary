@@ -1,4 +1,8 @@
+# This code draws a woman's face using basic mathematical curves. eg. parabola for face, sine for hair etc. 
+# Originally written in python2, it works in python3 as well.
 
+# AUTHOR : Kanaya Malakar
+# COPYRIGHT : Kanaya Malakar 2018
 
 
 from pylab import*
