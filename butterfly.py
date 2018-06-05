@@ -2,7 +2,7 @@
 # python2 and python3
 
 #AUTHOR : Kanaya Malakar
-#COPYRIGHT : 2018 Kanaya Malakar
+#COPYRIGHT : Kanaya Malakar 2018
 
 #Sample output file : butterfly.eps
 
